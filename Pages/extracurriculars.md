@@ -2,11 +2,12 @@
 
 # Honors & Extracurriculars
 
-• Outstanding Computer Science Undergraduate Student Award 2022 - Seattle University\
-• Graduate Representative & Member - Seattle University ACM (Computer Science Club) | September 2019 – Present\
-• President & Dean’s list - Seattle University\
-• Skills That Shine Mentee & Baccalaureate Scholar - Washington State Opportunity Scholarship | 2020 – Present\
-• Running Start | September 2017 – June 2019
+• Officer & Member - Seattle University ACM-W (Women in Tech Club) | September 2021 – Present\
+• Grace Hopper Conference Scholar - AnitaB.org | Aug 2021\
+• Peer Mentor (Grad Computer Science student) - Seattle University | Jan 2021 – Sept 2021\
+• Grace Hopper Conference Scholarship - Seattle University | Aug 2020\
+• President's list - Renton Technical College\
+• All-Washington Academy Team Nomination - Phi Theta Kappa\
 
 ---
 

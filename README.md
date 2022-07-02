@@ -1,18 +1,18 @@
-<h1 align="center">Justin Thoreson</h1>
-<table>
+<h1 align="center">Ana Mendes</h1>
+<table align="center">
   <tbody>
     <tr>
       <td><b>Information</b></td>
       <td width="50%" rowspan="4">
-        <img alt="Photo" src="./SU_ID.jpg" />
+        <img alt="Photo" src="./Ana.jfif" />
       </td>
     </tr>
     <tr>
       <td>
         <ul>
-          <li>thoresonjd@gmail.com</li>
-          <li><a href="https://www.linkedin.com/in/justinthoreson/">LinkedIn</a></li>
-          <li><a href="https://github.com/thoresonjd">GitHub</a></li>
+          <li>anamendes23@gmail.com</li>
+          <li><a href="https://www.linkedin.com/in/anamendes23/">LinkedIn</a></li>
+          <li><a href="https://github.com/anamendes23">GitHub</a></li>
         </ul>
       </td>
     </tr>

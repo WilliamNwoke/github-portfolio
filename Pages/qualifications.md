@@ -3,7 +3,7 @@
 # Skills & Qualifications
 
 ### Languages & Tools
-C++, C#, Python, React, TypeScript, JavaScript, HTML/CSS, Java, SQL, F#
+C++, C#, Java, Python, HTML, CSS, JavaScript, SQL, TypeScript
 
 ---
 
@@ -13,12 +13,7 @@ JetBrains IDEs, Visual Studio, Git, GitHub
 ---
 
 ### Principles
-Agile, Scrum, Kanban, Software as a Service, Object-Oriented Design
-
----
-
-### Soft Skills
-Communication, collaboration, adaptability, problem-solving, critical thinking
+Agile, Scrum, Kanban, Object-Oriented Design
 
 ---
 
