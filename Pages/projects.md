@@ -3,8 +3,9 @@
 <h1 align="center">Projects</h1>
 
 **Online Gallery** | Sept 2021 - Dec 2021\
-•  My team of four designed “Temporary Wall” to help users put their art works in to world, without getting biased feedbacks of their works.\
-Tool(s): C#, ASP.Net, Bootstrap, Visual Studio
+•  My team of four designed “Temporary Wall” to help users put their art works in to world, be able get anonymouse feedbacks, removing the biased feedbacks making every work it's origin.\
+Tools: C#ASP.Net, Bootstrap, Visual Studio
+
 ---
 
 **Bitcoin Peer-Client** | Oct 2021 - Nov 2021 \
