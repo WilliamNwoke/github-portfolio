@@ -2,16 +2,14 @@
 
 <h1 align="center">Projects</h1>
 
-**Student IT Architecture Competition 2021: Nudge Bud** | Dec 2020 - May 2021\
-• 1st prize winner and acclaimed best project presentation.\
-• That year’s theme was “Digital Minimalism”. My team partner and I designed “Nudge Bud” to help users in making their digital use more meaningful while nudging them to build relationships in the real world.\
-Topics: Security Architecture, Deployment Architecture, Kafka topics, Google Analytics 
-
+**Online Gallery** | Sept 2021 - Dec 2021\
+•  My team of four designed “Temporary Wall” to help users put their art works in to world, without getting biased feedbacks of their works.\
+Tool(s): C#, ASP.Net, Bootstrap, Visual Studio
 ---
 
-[Game Engine](https://github.com/anamendes23/GameEngine) | May 2020 - Present\
-• On-going passion project to learn how to build a game engine. As of now, I have implemented the windowing system, events, logs, renderer context, and interface.\
-Tools: C++, Visual Studio, OpenGL, GLFW, Glad, ImGui 
+**Bitcoin Peer-Client** | Oct 2021 - Nov 2021 \
+• Class project to build a bitcoin peer, that  gets an old block from the BitCoin block chain and demonstrates how any changes would be caught by the BitCoin network\
+Tool(s): Python 
 
 ---
 

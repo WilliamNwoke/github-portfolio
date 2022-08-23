@@ -4,23 +4,16 @@
 <table align="center">
   <tr>
     <td>
-      <b>Master of Science in Computer Science</b> | Anticipated March 2023<br />
+      <b>Master of Science in Computer Science</b> | Anticipated March 2024<br />
       Seattle University - Seattle, WA<br />
-      GPA: 4.0
+      GPA: 3.7
     </td>
   </tr>
   <tr>
     <td>
-      <b>Associate's in Computer Science</b> | Graduated June 2019<br />
-      Renton Technical College - Renton, WA<br />
-      GPA: 4.0
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>Bachelor of Science in Mechanical Engineering</b> | Graduated December 2016<br />
-      University of São Paulo - São Carlos, SP - Brazil<br />
-      GPA: 6.7
+      <b>Bachelor of Science in Computer Science</b> | Graduated July 2019<br />
+      Covenant University<br />
+      GPA: 3.1
     </td>
   </tr>
 </table>

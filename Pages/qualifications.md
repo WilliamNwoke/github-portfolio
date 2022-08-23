@@ -3,12 +3,12 @@
 # Skills & Qualifications
 
 ### Languages & Tools
-C++, C#, Java, Python, HTML, CSS, JavaScript, SQL, TypeScript
+Python, Java, Go, C++, C#, HTML, CSS, JavaScript, SQL
 
 ---
 
 ### Other Technical Skills
-JetBrains IDEs, Visual Studio, Git, GitHub
+JetBrains IDEs, Visual Studio, Visual Studio Code, Git, GitHub
 
 ---
 
