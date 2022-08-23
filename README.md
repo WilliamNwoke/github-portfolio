@@ -1,4 +1,4 @@
-<h1 align="center">Ana Mendes</h1>
+<h1 align="center">Uchenna Nwoke</h1>
 <table align="center">
   <tbody>
     <tr>
@@ -10,9 +10,9 @@
     <tr>
       <td>
         <ul>
-          <li>anamendes23@gmail.com</li>
-          <li><a href="https://www.linkedin.com/in/anamendes23/">LinkedIn</a></li>
-          <li><a href="https://github.com/anamendes23">GitHub</a></li>
+          <li>willteey@gmail.com</li>
+          <li><a href="https://www.linkedin.com/in/uwn/">LinkedIn</a></li>
+          <li><a href="https://github.com/WilliamNwoke">GitHub</a></li>
         </ul>
       </td>
     </tr>
