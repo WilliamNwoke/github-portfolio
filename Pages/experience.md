@@ -20,6 +20,18 @@
       Gloomme Business Connections<br />
     </td>
   </tr>
+   <tr>
+    <td>
+      <b>Data Analyst</b> | Feb 2020 - Nov 2020<br />
+      IPI Group<br />
+    </td>
+  </tr>
+   <tr>
+    <td>
+      <b>Network Operations Centre Engineer</b> | Sept 2020 - Nov 2020<br />
+      Galaxy Backbone<br />
+    </td>
+  </tr>
 </table>
 
 [Back to main page](./../README.md)
