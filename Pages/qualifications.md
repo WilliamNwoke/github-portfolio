@@ -17,4 +17,9 @@ Agile, Scrum, Kanban, Object-Oriented Design
 
 ---
 
+### Soft Skills
+Communication, collaboration, adaptability, problem-solving, critical thinking
+
+---
+
 [Back to main page](./../README.md)
