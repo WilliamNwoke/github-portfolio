@@ -14,4 +14,11 @@ Tool(s): Python
 
 ---
 
+**Resume Builder** | Oct 2021 - Nov 2021 \
+• Working on a project that builds resume per years per company, gives project recommendations per languages and interests, and tips\
+Tool(s): Swift
+
+---
+
+
 [Back to main page](./../README.md)
