@@ -4,6 +4,12 @@
 <table align="center">
   <tr>
     <td>
+      <b>Software Engineering Intern(Machine Learning Infrastructure)</b> | June 2023 - August 2023<br />
+      Outreach<br />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b>Software Engineering Intern</b> | July 2022 - Sept 2022<br />
       RoadTrip<br />
     </td>
