@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td>
-      <b>Machine Learning Engineering</b> | June 2023 - August 2023<br />
+      <b>Machine Learning Engineering</b> | Jan 2024 - March  2024<br />
       Modeling autism(ASD) in adults<br />
     </td>
   </tr>
