@@ -6,14 +6,14 @@
     <td>
       <b>Master of Science in Computer Science</b> | Anticipated March 2024<br />
       Seattle University - Seattle, WA<br />
-      GPA: 3.7
+      GPA: 3.5
     </td>
   </tr>
   <tr>
     <td>
       <b>Bachelor of Science in Computer Science</b> | Graduated July 2019<br />
       Covenant University<br />
-      GPA: 3.1
+      GPA: 3.0
     </td>
   </tr>
 </table>
