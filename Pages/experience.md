@@ -4,8 +4,20 @@
 <table align="center">
   <tr>
     <td>
+      <b>Machine Learning Engineering</b> | June 2023 - August 2023<br />
+      Modeling autism(ASD) in adults<br />
+    </td>
+  </tr>
+  <tr>
+    <td>
       <b>Software Engineering Intern(Machine Learning Infrastructure)</b> | June 2023 - August 2023<br />
       Outreach<br />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Software Engineer</b> | Jan 2023 - June 2023<br />
+      Universe-App<br />
     </td>
   </tr>
   <tr>
